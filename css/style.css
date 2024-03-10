@@ -207,7 +207,6 @@ ul {
 .portfolio-item {
   width: calc((100% - 2 * 24px) / 3);
   background: #fff;
- 
 }
 .portfolio-list {
   background: #fff;
@@ -217,7 +216,8 @@ ul {
   flex-wrap: wrap;
 }
 .portfolio-about{
-   padding: 32px 16px
+
+padding: 32px 16px;
     border: 1px solid #e7e9fc;
   border-top: none;
 }
