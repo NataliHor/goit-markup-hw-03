@@ -116,9 +116,9 @@ ul {
   background: #4d5ae5;
   cursor: pointer;
   border: none;
-  height: 56px
+  height: 56px;
   min-width: 169px;
-  border-radius: 4px; 
+  border-radius: 4px;
   padding: 16px 32px;
   display: block;
   margin: 0 auto;
@@ -173,9 +173,8 @@ ul {
   border-radius: 0px 0px 4px 4px;
 }
 .team-image {
- 
 }
-.team-about{
+.team-about {
   padding-top: 32px;
   padding-bottom: 32px;
 }
@@ -194,7 +193,6 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
- 
 }
 .portfolio {
 }
@@ -221,12 +219,11 @@ ul {
   flex-wrap: wrap;
 }
 .portfolio-about {
-padding: 32px 16px;
-border: 1px solid #e7e9fc;
-border-top: none;
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
 }
 .portfolio-image {
-  
 }
 .portfolio-subtitle {
   font-weight: 500;
@@ -235,15 +232,12 @@ border-top: none;
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
-  
 }
 .portfolio-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  
-  
 }
 .footer {
   background: #2e2f42;
@@ -276,12 +270,12 @@ border-top: none;
   padding-bottom: 120px;
 }
 .vissualy-hidden {
-    position: absolute !important;
-    clip: rect(1px, 1px, 1px, 1px);
-    padding: 0 !important;
-    border: 0 !important;
-    height: 1px !important;
-    width: 1px !important;
-    overflow: hidden;
-    white-space: nowrap;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
 }
