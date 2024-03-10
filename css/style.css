@@ -215,11 +215,10 @@ ul {
   row-gap: 48px;
   flex-wrap: wrap;
 }
-.portfolio-about{
-
+.portfolio-about {
 padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-  border-top: none;
+border: 1px solid #e7e9fc;
+border-top: none;
 }
 .portfolio-image {
   
